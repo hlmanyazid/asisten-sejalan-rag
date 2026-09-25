@@ -4,7 +4,7 @@ Asisten yang menjawab pertanyaan pembeli tentang material elektrikal dan baja in
 di toko Sejalan (Sejalan Elektrik dan Sejalan Baja). Jawaban disusun oleh model AI
 **hanya berdasarkan data barang toko**, sehingga AI tidak mengarang barang atau spesifikasi.
 
-Dibuat oleh **Ryan Nugraha Ramadhan**.
+Dibuat oleh Dibuat oleh **Hilman Yazid Vasla**.
 
 ## Masalah bisnis yang diselesaikan
 
